@@ -1,1 +1,3 @@
-# SimpleCI-CD
+# maven-project
+
+Simple Maven Project
